@@ -13,12 +13,15 @@ Python modules:<strong>youtube_dl</strong> & <strong>python-cfonts</strong> <br>
 Package:<strong>ffmpeg</strong>
 
 ## installation
+```
 pkg install python <br>
 pkg install git <br>
 apt-get install ffmpeg <br>
 pip install -r requirements.txt <br>
 <br>
 python yt-mp3.py <br>
+
+```
 
 
 ## Features
