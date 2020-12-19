@@ -1,16 +1,14 @@
-
 [![Header](https://github.com/Sumit-buddy/yt-mp3/blob/master/images.jpeg "Header")](https://thetechnohack.cf/)
-
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm Sumit your unknown friend. Here is a fun project to covert and download youtube mp4 video to mp3.
 
 ## Requirements
-Python <i>v3+</i> <br>
-Terminal (termux) <br>
-Python modules:<strong>youtube_dl</strong> & <strong>python-cfonts</strong> <br>
-Package:<strong>ffmpeg</strong>
+- Python <i>v3+</i> <br>
+- Terminal (termux) <br>
+- Python modules : <strong>youtube_dl</strong> & <strong>python-cfonts</strong> <br>
+- Package : <strong>ffmpeg</strong>
 
 ## installation
 ```
@@ -18,26 +16,22 @@ pkg install python
 pkg install git
 apt-get install ffmpeg
 pip install -r requirements.txt
-
 ```
-##usage
+## usage
 ```
 python yt-mp3.py
-
 ```
-
 
 ## Features
 - [x] Download youtube video in mp3
 - [x] Easy to use
 - [x] Fast downloading speed 
 
-
 ## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Termux-Android-blue)
+![](https://img.shields.io/badge/PKG-ffmpeg-yellowgreen)
 ![](https://img.shields.io/badge/Noob-Keep%20Learning-yellow)
 
 
