@@ -13,6 +13,13 @@ Python modules:<strong>youtube_dl</strong> & <strong>python-cfonts</strong> <br>
 Package:<strong>ffmpeg</strong>
 
 ## installation
+pkg install python <br>
+pkg install git <br>
+apt-get install ffmpeg <br>
+pip install -r requirements.txt <br>
+<br>
+python yt-mp3.py <br>
+
 
 
 ## Technologies & Tools
@@ -36,8 +43,3 @@ Package:<strong>ffmpeg</strong>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumit-buddy&repo=yt-mp3&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
-pkg install python
-pkg install git
-apt-get install ffmpeg
-pip install -r requirements.txt
