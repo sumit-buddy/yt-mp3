@@ -14,12 +14,15 @@ Package:<strong>ffmpeg</strong>
 
 ## installation
 ```
-pkg install python <br>
-pkg install git <br>
-apt-get install ffmpeg <br>
-pip install -r requirements.txt <br>
-<br>
-python yt-mp3.py <br>
+pkg install python
+pkg install git
+apt-get install ffmpeg
+pip install -r requirements.txt
+
+```
+##usage
+```
+python yt-mp3.py
 
 ```
 
