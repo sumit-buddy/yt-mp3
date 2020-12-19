@@ -21,6 +21,11 @@ pip install -r requirements.txt <br>
 python yt-mp3.py <br>
 
 
+## Features
+- [x] Download youtube video in mp3
+- [x] Easy to use
+- [x] Fast downloading speed 
+
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
