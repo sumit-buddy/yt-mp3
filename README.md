@@ -1,6 +1,10 @@
+## yt-mp3
+
 [![Header](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/800px-YouTube_Logo_2017.svg.png "Header")](https://www.youtube.com/channel/UCN_HN02IAqjYvaCEU_ggnFw)
 
-# Hi there folks!>
+- youtube to mp3 converter and downloader.
+
+## Hi there folks!
 
 Here is a fun project to covert and download youtube mp4 video to mp3.
 
