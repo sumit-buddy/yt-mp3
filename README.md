@@ -1,8 +1,8 @@
-[![Header](https://github.com/Sumit-buddy/yt-mp3/blob/master/images.jpeg "Header")](https://thetechnohack.cf/)
+[![Header](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/800px-YouTube_Logo_2017.svg.png "Header")](https://www.youtube.com/channel/UCN_HN02IAqjYvaCEU_ggnFw)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there folks!>
 
-I'm Sumit your unknown friend. Here is a fun project to covert and download youtube mp4 video to mp3.
+Here is a fun project to covert and download youtube mp4 video to mp3.
 
 ## Requirements
 - Python <i>v3+</i> <br>
@@ -10,16 +10,16 @@ I'm Sumit your unknown friend. Here is a fun project to covert and download yout
 - Python modules : <strong>youtube_dl</strong> & <strong>python-cfonts</strong> <br>
 - Package : <strong>ffmpeg</strong>
 
-## installation
+## Installation
 ```
 pkg install python
 pkg install git
 apt-get install ffmpeg
 pip install -r requirements.txt
 ```
-## usage
+## Run
 ```
-python yt-mp3.py
+python3 yt-mp3.py
 ```
 
 ## Features
@@ -35,14 +35,7 @@ python yt-mp3.py
 ![](https://img.shields.io/badge/Noob-Keep%20Learning-yellow)
 
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/Sumit-buddy/yt-mp3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-buddy&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/Sumit-buddy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sumit-buddy&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sumit's GitHub Stats" />
-</a>
+## GitHub Stats
 
 <a href="https://github.com/Sumit-buddy/yt-mp3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumit-buddy&repo=yt-mp3&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
